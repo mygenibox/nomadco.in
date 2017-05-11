@@ -31,7 +31,7 @@ Specifications:
 License
 -------
 
-Centurion is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Nomadcoin is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
