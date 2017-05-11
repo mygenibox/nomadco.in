@@ -19,7 +19,7 @@ Testnet:
 Specifications:
 ---------------
 
-- Short: NMC
+- Short: NOM
 - Total coin: 250 Million coin cap.
 - X11 hashing algorithm
 - Block time: 1 minute
